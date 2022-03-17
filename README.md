@@ -6,3 +6,5 @@ These principles, if applied wisely, can help to maintain sustainable developmen
 - Test everything!
 - Follow the [Angular Style](https://angular.io/guide/styleguide) Guide
 - Structure the modules and code to enable lazy loading, see [Angular Architecture Patterns and Best Practices](https://dev-academy.com/angular-architecture-best-practices/)
+
+![image](https://user-images.githubusercontent.com/8875836/158779060-d95b331b-f870-4794-8737-1971e2cdf927.png)
